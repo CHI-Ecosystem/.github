@@ -80,22 +80,23 @@ Start at the [developer overview →](https://chi.app/en/developers)
 ## How it fits together
 
 ```mermaid
+%%{init: {'theme':'base','themeVariables':{'primaryColor':'#18121d','primaryTextColor':'#ffffff','primaryBorderColor':'#E83C70','lineColor':'#E83C70','clusterBkg':'#0d0a10','clusterBorder':'#E83C70','titleColor':'#ffffff','fontSize':'15px','tertiaryColor':'#0d0a10','edgeLabelBackground':'#18121d'}}}%%
 flowchart LR
-    V([🧑‍🎤 Visitors]) --> APP[📱 CHI App]
-    C([🎫 Crew & Vendors]) --> APP
-    O([🎪 Organizers]) --> BS[🎛️ CHI Backstage]
-    VO([🏟️ Venue Owners]) --> BS
+    V(["Visitors"]) ==> APP["CHI App"]
+    C(["Crew & Vendors"]) ==> APP
+    O(["Organizers"]) ==> BS["CHI Backstage"]
+    VO(["Venue Owners"]) ==> BS
 
-    APP --> CORE
-    BS --> CORE
+    APP ==> CORE
+    BS ==> CORE
 
-    subgraph CORE[⚡ CHI Platform]
+    subgraph CORE["⚡ CHI Platform"]
         direction LR
-        PAY[💳 Payments] ~~~ TIX[🎟️ Ticketing]
-        CRM[🤝 CRM & Stakeholders] ~~~ AN[📊 Real-time Analytics]
+        PAY["Payments"] ~~~ TIX["Ticketing"]
+        CRM["CRM & Stakeholders"] ~~~ AN["Real-time Analytics"]
     end
 
-    CORE --> D[("Event data<br/>live & consistent")]
+    CORE ==> D[("Event data<br/>live & consistent")]
 ```
 
 ## The autonomous company
