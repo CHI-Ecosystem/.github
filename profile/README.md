@@ -26,9 +26,13 @@ CHI is a unified operating system for events that bridges physical interactions 
 
 No hardware lock-in. Any phone or tablet becomes a point of sale, a ticket scanner, or a crew terminal. Setup takes under 15 minutes, and the same stack scales from a 10-person pop-up to a 100,000+ attendee festival.
 
-```
- ticket sold ──► gate scanned ──► wallet topped up ──► drinks poured ──► vendor settled
-      └──────────────────── one platform, real-time, end to end ────────────────────┘
+```mermaid
+%%{init: {'theme':'base','themeVariables':{'primaryColor':'#18121d','primaryTextColor':'#ffffff','primaryBorderColor':'#E83C70','lineColor':'#E83C70','clusterBkg':'#0d0a10','clusterBorder':'#E83C70','titleColor':'#ffffff','fontSize':'15px'}}}%%
+flowchart LR
+    subgraph FLOW["⚡ one platform · real-time · end to end"]
+        direction LR
+        A("🎟️ ticket<br/>sold") ==> B("🚪 gate<br/>scanned") ==> C("💳 wallet<br/>topped up") ==> D("🍹 drinks<br/>poured") ==> E("🤝 vendor<br/>settled")
+    end
 ```
 
 ## Why we build it
