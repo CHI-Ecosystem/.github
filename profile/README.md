@@ -171,6 +171,16 @@ We treat AI agents as full members of the crew — now we're hiring more humans 
 
 </div>
 
+<!-- Org pulse: uncomment after the metrics workflow has run once (needs METRICS_TOKEN secret)
+## Org pulse <img src="https://api.iconify.design/lucide/activity.svg?color=%23E83C70&width=22" width="22" />
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/CHI-Ecosystem/.github/metrics/github-metrics.svg" alt="CHI Ecosystem metrics — refreshed daily" width="100%" />
+
+</div>
+-->
+
 ## Find us
 
 <img src="https://api.iconify.design/lucide/globe.svg?color=%23E83C70&width=16" width="16" /> [Website](https://chi.app) ·
