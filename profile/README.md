@@ -104,7 +104,7 @@ CHI is the autonomous event-technology company: a small, highly skilled human te
 
 No rigid roles, no job titles — everyone brings their expertise across product, engineering, design, and strategy. We believe lean teams with the right leverage can outpace companies ten times their size, and our work touches millions of event-goers competing with — and beating — companies 10× our size.
 
-Born in **Rotterdam** 🇳🇱, where Dutch event culture (Sensation, Mysteryland, ADE) meets a world-class tech sector. Our innovation & AI lab lives in **Bali** 🇮🇩, the epicenter of Asia's live-events scene.
+Born in <img src="https://api.iconify.design/lucide/landmark.svg?color=%23E83C70&width=16" width="16" /> **Rotterdam**, where Dutch event culture (Sensation, Mysteryland, ADE) meets a world-class tech sector. Our innovation & AI lab lives in <img src="https://api.iconify.design/lucide/tree-palm.svg?color=%23E83C70&width=16" width="16" /> **Bali**, the epicenter of Asia's live-events scene.
 
 ## Under the hood
 
@@ -117,7 +117,6 @@ Built by engineers (human *and* AI) who like their systems the way they like the
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![React](https://img.shields.io/badge/React-087EA4?style=flat-square&logo=react&logoColor=white)
 ![React Native](https://img.shields.io/badge/React%20Native-087EA4?style=flat-square&logo=react&logoColor=white)
-![Expo](https://img.shields.io/badge/Expo-000020?style=flat-square&logo=expo&logoColor=white)
 ![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white)
 ![PWA](https://img.shields.io/badge/PWA-5A0FC8?style=flat-square&logo=pwa&logoColor=white)
 
@@ -132,7 +131,6 @@ Built by engineers (human *and* AI) who like their systems the way they like the
 ![Vault](https://img.shields.io/badge/HashiCorp_Vault-FFEC6E?style=flat-square&logo=vault&logoColor=black)
 ![Hyperswitch](https://img.shields.io/badge/Hyperswitch-0570DE?style=flat-square)
 ![SeaweedFS](https://img.shields.io/badge/SeaweedFS-2C974B?style=flat-square)
-![Weaviate](https://img.shields.io/badge/Weaviate_Vector_DB-61BD73?style=flat-square)
 
 **Infra & observability**
 
@@ -154,7 +152,7 @@ Built by engineers (human *and* AI) who like their systems the way they like the
 
 > Our product source lives in private repositories. Want to see the inside? [There's a door for that. →](https://chi.app/en/careers)
 
-## Join the crew 🚀
+## Join the crew <img src="https://api.iconify.design/lucide/rocket.svg?color=%23E83C70&width=22" width="22" />
 
 We treat AI agents as full members of the crew — now we're hiring more humans to direct them. Small team, outsized impact, no job titles, real ownership.
 
@@ -164,7 +162,7 @@ We treat AI agents as full members of the crew — now we're hiring more humans 
 - <img src="https://api.iconify.design/lucide/flask-conical.svg?color=%23E83C70&width=16" width="16" /> **AI-Driven Software Event Tester** — AI-created event simulations that become executable Playwright & Detox suites
 - <img src="https://api.iconify.design/lucide/headset.svg?color=%23E83C70&width=16" width="16" /> **Technical Event Success & Sales Operations** — guide customers through the full CHI event journey
 
-📍 Bali, Indonesia / remote-friendly · ✉️ work@chi.app
+<img src="https://api.iconify.design/lucide/map-pin.svg?color=%23E83C70&width=16" width="16" /> Bali, Indonesia / remote-friendly · <img src="https://api.iconify.design/lucide/mail.svg?color=%23E83C70&width=16" width="16" /> [work@chi.app](mailto:work@chi.app)
 
 <div align="center">
 
@@ -187,5 +185,5 @@ We treat AI agents as full members of the crew — now we're hiring more humans 
 ---
 
 <div align="center">
-<sub>© EventCHI B.V. · Rotterdam HQ, Westplein 12 🇳🇱 · Bali AI Lab, Ubud 🇮🇩 · <strong>The future of event technology, today.</strong></sub>
+<sub>© EventCHI B.V. · Rotterdam HQ, Westplein 12 · Bali AI Lab, Ubud · <strong>The future of event technology, today.</strong></sub>
 </div>
