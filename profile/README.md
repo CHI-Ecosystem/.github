@@ -170,7 +170,15 @@ We treat AI agents as full members of the crew — now we're hiring more humans 
 
 ## Find us
 
-[Website](https://chi.app) · [About](https://chi.app/en/about) · [Developers](https://chi.app/en/developers) · [Support](https://chi.app/en/support) · [LinkedIn](https://www.linkedin.com/company/eventchi) · [X](https://x.com/eventchi) · [Instagram](https://instagram.com/eventchi) · [YouTube](https://youtube.com/@eventchi) · [TikTok](https://tiktok.com/@eventchi)
+<img src="https://api.iconify.design/lucide/globe.svg?color=%23E83C70&width=16" width="16" /> [Website](https://chi.app) ·
+<img src="https://api.iconify.design/lucide/info.svg?color=%23E83C70&width=16" width="16" /> [About](https://chi.app/en/about) ·
+<img src="https://api.iconify.design/lucide/code-xml.svg?color=%23E83C70&width=16" width="16" /> [Developers](https://chi.app/en/developers) ·
+<img src="https://api.iconify.design/lucide/life-buoy.svg?color=%23E83C70&width=16" width="16" /> [Support](https://chi.app/en/support) ·
+<img src="https://api.iconify.design/simple-icons/linkedin.svg?color=%23E83C70&width=16" width="16" /> [LinkedIn](https://www.linkedin.com/company/eventchi) ·
+<img src="https://api.iconify.design/simple-icons/x.svg?color=%23E83C70&width=16" width="16" /> [X](https://x.com/eventchi) ·
+<img src="https://api.iconify.design/simple-icons/instagram.svg?color=%23E83C70&width=16" width="16" /> [Instagram](https://instagram.com/eventchi) ·
+<img src="https://api.iconify.design/simple-icons/youtube.svg?color=%23E83C70&width=16" width="16" /> [YouTube](https://youtube.com/@eventchi) ·
+<img src="https://api.iconify.design/simple-icons/tiktok.svg?color=%23E83C70&width=16" width="16" /> [TikTok](https://tiktok.com/@eventchi)
 
 ---
 
