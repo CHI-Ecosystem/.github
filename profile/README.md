@@ -57,7 +57,21 @@ Modular, plug-and-play solutions for every aspect of your event:
 | <img src="https://api.iconify.design/lucide/ticket-percent.svg?color=%23E83C70&width=20" width="20" /> | **[CHI Coupons](https://chi.app/en/chi-coupons)** | Programmable coupons — promo codes, vouchers, discounts, and redemption analytics |
 | <img src="https://api.iconify.design/lucide/trending-up.svg?color=%23E83C70&width=20" width="20" /> | **[CHI Kickback](https://chi.app/en/chi-kickback)** | Earn your ticket back — referral and rewards tooling for attendees and promoters |
 
-Everything is white-label ready — organizers ship a fully branded app experience without writing a line of code. Building on top of CHI? Start at the [developer overview →](https://chi.app/en/developers)
+Everything is white-label ready — organizers ship a fully branded app experience without writing a line of code.
+
+## Built for developers — and their AI agents
+
+CHI isn't just an app, it's a platform. The same core that powers our own 100+ AI agents is what you integrate with:
+
+| | Surface | What you get |
+|---|---|---|
+| <img src="https://api.iconify.design/lucide/plug.svg?color=%23E83C70&width=18" width="18" /> | **REST API** | The full platform — tickets, payments, CRM, analytics — behind one API gateway |
+| <img src="https://api.iconify.design/lucide/package.svg?color=%23E83C70&width=18" width="18" /> | **TypeScript SDKs** | Typed clients generated straight from the API — what our own web & mobile apps run on |
+| <img src="https://api.iconify.design/lucide/terminal.svg?color=%23E83C70&width=18" width="18" /> | **CLI** | Script and automate event operations from your terminal or CI |
+| <img src="https://api.iconify.design/lucide/bot.svg?color=%23E83C70&width=18" width="18" /> | **MCP server** | Plug CHI into Claude, agents, and any MCP-compatible tooling — the event OS as a toolset |
+| <img src="https://api.iconify.design/lucide/file-text.svg?color=%23E83C70&width=18" width="18" /> | **llms.txt** | Machine-readable public context at [/llms.txt](https://chi.app/llms.txt) & [/llms-full.txt](https://chi.app/llms-full.txt) — AI-agent friendly by design |
+
+Start at the [developer overview →](https://chi.app/en/developers)
 
 ## How it fits together
 
@@ -66,6 +80,7 @@ flowchart LR
     V([🧑‍🎤 Visitors]) --> APP[📱 CHI App]
     C([🎫 Crew & Vendors]) --> APP
     O([🎪 Organizers]) --> BS[🎛️ CHI Backstage]
+    VO([🏟️ Venue Owners]) --> BS
 
     APP --> CORE
     BS --> CORE
