@@ -24,7 +24,7 @@
 
 CHI is a unified operating system for events that bridges physical interactions with digital systems. It replaces fragmented event infrastructure — outdated ticketing, disconnected payment terminals, spreadsheet crew ops — with one connected platform for tickets, payments, visitor engagement, crew operations, stakeholders, VIP, coupons, and analytics.
 
-No hardware lock-in. Any phone or tablet becomes a point of sale, a ticket scanner, or a crew terminal. Setup takes under 15 minutes, and the same stack scales from a 10-person pop-up to a 100,000+ attendee festival.
+No hardware lock-in. Any phone or tablet becomes a point of sale, a ticket scanner, or a crew terminal. Setup takes under 15 minutes, and the same stack scales from a 10-person pop-up to a 100,000+ attendee festival. And it's fully **white-label**: the entire experience ships under the organizer's own brand — app, tickets, payments, and all.
 
 ```mermaid
 %%{init: {'theme':'base','themeVariables':{'primaryColor':'#18121d','primaryTextColor':'#ffffff','primaryBorderColor':'#E83C70','lineColor':'#E83C70','clusterBkg':'#0d0a10','clusterBorder':'#E83C70','titleColor':'#ffffff','fontSize':'15px'}}}%%
@@ -52,7 +52,7 @@ Modular, plug-and-play solutions for every aspect of your event:
 | | Module | What it does |
 |---|---|---|
 | <img src="https://api.iconify.design/lucide/ticket.svg?color=%23E83C70&width=20" width="20" /> | **[CHI Tickets](https://chi.app/en/chi-tickets)** | Smart, secure event tickets — marketplace, transfers, digital twins, referrals, and analytics |
-| <img src="https://api.iconify.design/lucide/wallet.svg?color=%23E83C70&width=20" width="20" /> | **[CHI Payments](https://chi.app/en/chi-payments)** | Cashless payments over QR, NFC & Tap to Pay — digital token wallets, top-ups, refunds, live revenue tracking, and settlement controls |
+| <img src="https://api.iconify.design/lucide/wallet.svg?color=%23E83C70&width=20" width="20" /> | **[CHI Payments](https://chi.app/en/chi-payments)** | Cashless payments over QR, NFC & Tap to Pay — orchestrated across multiple PSPs, with digital token wallets, top-ups, refunds, live revenue tracking, and settlement controls |
 | <img src="https://api.iconify.design/lucide/smartphone.svg?color=%23E83C70&width=20" width="20" /> | **CHI App** | One mobile experience for visitors *and* crew — tickets, wallet, QR/NFC, and event info. [iOS](https://apps.apple.com/us/app/chi-app-new/id6759359337) · [Android](https://play.google.com/store/apps/details?id=app.chi.mobile) · [PWA](https://web.chi.app) |
 | <img src="https://api.iconify.design/lucide/layout-dashboard.svg?color=%23E83C70&width=20" width="20" /> | **[CHI Backstage](https://backstage.chi.app)** | The event command center — event creation, crew management, revenue analytics, access control |
 | <img src="https://api.iconify.design/lucide/users.svg?color=%23E83C70&width=20" width="20" /> | **[CHI CRM](https://chi.app/en/chi-crm)** | 360° visitor insights — attendee profiles, segmentation, and engagement tools |
@@ -105,7 +105,7 @@ CHI is the autonomous event-technology company: a small, highly skilled human te
 
 No rigid roles, no job titles — everyone brings their expertise across product, engineering, design, and strategy. We believe lean teams with the right leverage can outpace companies ten times their size, and our work touches millions of event-goers competing with — and beating — companies 10× our size.
 
-Born in <img src="https://api.iconify.design/lucide/landmark.svg?color=%23E83C70&width=16" width="16" /> **Rotterdam**, where Dutch event culture meets a world-class tech sector. Our innovation & AI lab lives in <img src="https://api.iconify.design/lucide/tree-palm.svg?color=%23E83C70&width=16" width="16" /> **Bali**, the epicenter of Asia's live-events scene.
+Born in **Rotterdam**, where Dutch event culture meets a world-class tech sector. Our innovation & AI lab lives in **Bali**, the epicenter of Asia's live-events scene.
 
 ## Under the hood
 
