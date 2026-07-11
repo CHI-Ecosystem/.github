@@ -169,21 +169,17 @@ We treat AI agents as full members of the crew — now we're hiring more humans 
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/CHI-Ecosystem/.github/metrics/github-metrics.svg" alt="CHI Ecosystem metrics — refreshed daily" width="100%" />
+<img src="https://raw.githubusercontent.com/CHI-Ecosystem/.github/metrics/github-metrics.svg" alt="CHI Ecosystem metrics — refreshed daily" width="480" />
 
 </div>
 
 ## Find us
 
-<img src="https://api.iconify.design/lucide/globe.svg?color=%23E83C70&width=16" width="16" /> [Website](https://chi.app) ·
-<img src="https://api.iconify.design/lucide/info.svg?color=%23E83C70&width=16" width="16" /> [About](https://chi.app/en/about) ·
-<img src="https://api.iconify.design/lucide/code-xml.svg?color=%23E83C70&width=16" width="16" /> [Developers](https://chi.app/en/developers) ·
-<img src="https://api.iconify.design/lucide/life-buoy.svg?color=%23E83C70&width=16" width="16" /> [Support](https://chi.app/en/support) ·
-<img src="https://api.iconify.design/simple-icons/linkedin.svg?color=%23E83C70&width=16" width="16" /> [LinkedIn](https://www.linkedin.com/company/eventchi) ·
-<img src="https://api.iconify.design/simple-icons/x.svg?color=%23E83C70&width=16" width="16" /> [X](https://x.com/eventchi) ·
-<img src="https://api.iconify.design/simple-icons/instagram.svg?color=%23E83C70&width=16" width="16" /> [Instagram](https://instagram.com/eventchi) ·
-<img src="https://api.iconify.design/simple-icons/youtube.svg?color=%23E83C70&width=16" width="16" /> [YouTube](https://youtube.com/@eventchi) ·
-<img src="https://api.iconify.design/simple-icons/tiktok.svg?color=%23E83C70&width=16" width="16" /> [TikTok](https://tiktok.com/@eventchi)
+<div align="center">
+
+<a href="https://chi.app" title="Website"><img src="https://api.iconify.design/lucide/globe.svg?color=%23E83C70&width=28" width="28" alt="Website" /></a>&emsp;<a href="https://chi.app/en/about" title="About"><img src="https://api.iconify.design/lucide/info.svg?color=%23E83C70&width=28" width="28" alt="About" /></a>&emsp;<a href="https://chi.app/en/developers" title="Developers"><img src="https://api.iconify.design/lucide/code-xml.svg?color=%23E83C70&width=28" width="28" alt="Developers" /></a>&emsp;<a href="https://chi.app/en/support" title="Support"><img src="https://api.iconify.design/lucide/life-buoy.svg?color=%23E83C70&width=28" width="28" alt="Support" /></a>&emsp;<a href="https://www.linkedin.com/company/eventchi" title="LinkedIn"><img src="https://api.iconify.design/simple-icons/linkedin.svg?color=%23E83C70&width=28" width="28" alt="LinkedIn" /></a>&emsp;<a href="https://x.com/eventchi" title="X"><img src="https://api.iconify.design/simple-icons/x.svg?color=%23E83C70&width=28" width="28" alt="X" /></a>&emsp;<a href="https://instagram.com/eventchi" title="Instagram"><img src="https://api.iconify.design/simple-icons/instagram.svg?color=%23E83C70&width=28" width="28" alt="Instagram" /></a>&emsp;<a href="https://youtube.com/@eventchi" title="YouTube"><img src="https://api.iconify.design/simple-icons/youtube.svg?color=%23E83C70&width=28" width="28" alt="YouTube" /></a>&emsp;<a href="https://tiktok.com/@eventchi" title="TikTok"><img src="https://api.iconify.design/simple-icons/tiktok.svg?color=%23E83C70&width=28" width="28" alt="TikTok" /></a>
+
+</div>
 
 ---
 
