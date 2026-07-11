@@ -169,7 +169,10 @@ We treat AI agents as full members of the crew — now we're hiring more humans 
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/CHI-Ecosystem/.github/metrics/github-metrics.svg" alt="CHI Ecosystem metrics — refreshed daily" width="480" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/CHI-Ecosystem/.github/metrics/github-metrics-dark.svg" />
+  <img src="https://raw.githubusercontent.com/CHI-Ecosystem/.github/metrics/github-metrics-light.svg" alt="CHI Ecosystem metrics — refreshed daily" width="480" />
+</picture>
 
 </div>
 
