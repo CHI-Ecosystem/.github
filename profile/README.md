@@ -10,11 +10,11 @@
 
 <br/>
 
-[![Website](https://img.shields.io/badge/chi.app-visit-E83C70?style=for-the-badge)](https://chi.app)
-[![Careers](https://img.shields.io/badge/careers-we're%20hiring-E83C70?style=for-the-badge)](https://chi.app/en/careers)
-[![PWA](https://img.shields.io/badge/PWA-web.chi.app-5A0FC8?style=for-the-badge&logo=pwa&logoColor=white)](https://web.chi.app)
-[![App Store](https://img.shields.io/badge/App%20Store-iOS-0D96F6?style=for-the-badge&logo=apple&logoColor=white)](https://apps.apple.com/us/app/chi-app-new/id6759359337)
-[![Google Play](https://img.shields.io/badge/Google%20Play-Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)](https://play.google.com/store/apps/details?id=app.chi.mobile)
+[![Website](https://img.shields.io/badge/chi.app-visit-E83C70?style=flat-square)](https://chi.app)
+[![Careers](https://img.shields.io/badge/careers-we're%20hiring-E83C70?style=flat-square)](https://chi.app/en/careers)
+[![PWA](https://img.shields.io/badge/PWA-web.chi.app-5A0FC8?style=flat-square&logo=pwa&logoColor=white)](https://web.chi.app)
+[![App Store](https://img.shields.io/badge/App%20Store-iOS-0D96F6?style=flat-square&logo=apple&logoColor=white)](https://apps.apple.com/us/app/chi-app-new/id6759359337)
+[![Google Play](https://img.shields.io/badge/Google%20Play-Android-3DDC84?style=flat-square&logo=android&logoColor=white)](https://play.google.com/store/apps/details?id=app.chi.mobile)
 
 </div>
 
@@ -105,7 +105,7 @@ CHI is the autonomous event-technology company: a small, highly skilled human te
 
 No rigid roles, no job titles — everyone brings their expertise across product, engineering, design, and strategy. We believe lean teams with the right leverage can outpace companies ten times their size, and our work touches millions of event-goers competing with — and beating — companies 10× our size.
 
-Born in <img src="https://api.iconify.design/lucide/landmark.svg?color=%23E83C70&width=16" width="16" /> **Rotterdam**, where Dutch event culture (Sensation, Mysteryland, ADE) meets a world-class tech sector. Our innovation & AI lab lives in <img src="https://api.iconify.design/lucide/tree-palm.svg?color=%23E83C70&width=16" width="16" /> **Bali**, the epicenter of Asia's live-events scene.
+Born in <img src="https://api.iconify.design/lucide/landmark.svg?color=%23E83C70&width=16" width="16" /> **Rotterdam**, where Dutch event culture meets a world-class tech sector. Our innovation & AI lab lives in <img src="https://api.iconify.design/lucide/tree-palm.svg?color=%23E83C70&width=16" width="16" /> **Bali**, the epicenter of Asia's live-events scene.
 
 ## Under the hood
 
@@ -155,15 +155,9 @@ Built by engineers (human *and* AI) who like their systems the way they like the
 
 ## Join the crew <img src="https://api.iconify.design/lucide/rocket.svg?color=%23E83C70&width=22" width="22" />
 
-We treat AI agents as full members of the crew — now we're hiring more humans to direct them. Small team, outsized impact, no job titles, real ownership.
+We treat AI agents as full members of the crew — now we're hiring more humans to direct them. Small team, outsized impact, no job titles, real ownership. Engineering, AI, product, and event-success roles across our hubs.
 
-**Open roles include:**
-
-- <img src="https://api.iconify.design/lucide/terminal.svg?color=%23E83C70&width=16" width="16" /> **AI-Native Engineer / Operator** (Dev + DevOps) — ship product and run the infrastructure behind 100+ AI agents
-- <img src="https://api.iconify.design/lucide/flask-conical.svg?color=%23E83C70&width=16" width="16" /> **AI-Driven Software Event Tester** — AI-created event simulations that become executable Playwright & Detox suites
-- <img src="https://api.iconify.design/lucide/headset.svg?color=%23E83C70&width=16" width="16" /> **Technical Event Success & Sales Operations** — guide customers through the full CHI event journey
-
-<img src="https://api.iconify.design/lucide/map-pin.svg?color=%23E83C70&width=16" width="16" /> Bali, Indonesia / remote-friendly · <img src="https://api.iconify.design/lucide/mail.svg?color=%23E83C70&width=16" width="16" /> [work@chi.app](mailto:work@chi.app)
+<img src="https://api.iconify.design/lucide/map-pin.svg?color=%23E83C70&width=16" width="16" /> Rotterdam · Bali · remote-friendly&ensp;·&ensp;<img src="https://api.iconify.design/lucide/mail.svg?color=%23E83C70&width=16" width="16" /> [work@chi.app](mailto:work@chi.app)
 
 <div align="center">
 

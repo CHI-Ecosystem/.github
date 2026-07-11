@@ -16,16 +16,25 @@ jobs:
   metrics:
     runs-on: ubuntu-latest
     steps:
+      # Mint a short-lived installation token from the chi-deploy-bot GitHub
+      # App (installed org-wide) instead of a long-lived classic PAT.
+      # Requires CHI_GH_APP_ID + CHI_GH_APP_PRIVATE_KEY secrets on this repo
+      # (or org-level with access granted to .github).
+      - name: Mint chi-deploy-bot token
+        id: app-token
+        uses: actions/create-github-app-token@v2
+        with:
+          app-id: ${{ secrets.CHI_GH_APP_ID }}
+          private-key: ${{ secrets.CHI_GH_APP_PRIVATE_KEY }}
+          owner: CHI-Ecosystem
+
       # Renders an SVG with aggregated org stats and commits it to the
       # `metrics` branch, where the profile README embeds it.
-      #
-      # METRICS_TOKEN must be a classic PAT with `repo` + `read:org` scopes
-      # so private-repo language/commit stats are included in the aggregates.
       # Only aggregate numbers are rendered — no private repo names, no
       # member identities (memberships are private).
       - uses: lowlighter/metrics@latest
         with:
-          token: ${{ secrets.METRICS_TOKEN }}
+          token: ${{ steps.app-token.outputs.token }}
           user: CHI-Ecosystem
           filename: github-metrics.svg
           committer_branch: metrics
