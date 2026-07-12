@@ -22,7 +22,7 @@
 
 ## What is CHI?
 
-CHI is a unified operating system for events that bridges physical interactions with digital systems. It replaces fragmented event infrastructure — outdated ticketing, disconnected payment terminals, spreadsheet crew ops — with one connected platform for tickets, payments, visitor engagement, crew operations, stakeholders, VIP, coupons, and analytics.
+CHI is a unified operating system for events that bridges physical interactions with digital systems. It replaces fragmented event infrastructure — outdated ticketing, disconnected payment terminals, spreadsheet crew ops — with one connected platform for tickets, payments, visitor engagement, crew operations, stakeholders, VIP, coupons, and analytics. More than a platform, CHI is an ecosystem: the finance and access backbone layer of live events, where every payment, ticket, and permission flows through one intelligent core.
 
 No hardware lock-in. Any phone or tablet becomes a point of sale, a ticket scanner, or a crew terminal. Setup takes under 15 minutes, and the same stack scales from a 10-person pop-up to a 100,000+ attendee festival. And it's fully **white-label**: the entire experience ships under the organizer's own brand — app, tickets, payments, and all.
 
