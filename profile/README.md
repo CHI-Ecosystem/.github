@@ -41,7 +41,7 @@ No hardware lock-in. Any phone or tablet becomes a point of sale, a ticket scann
 > **That's why we built CHI.** We combine artificial intelligence and blockchain to orchestrate perfect experiences — solving the trilemma of security, speed, and scale. [Read our story →](https://chi.app/en/about)
 
 - <img src="https://raw.githubusercontent.com/CHI-Ecosystem/.github/main/profile/assets/icons/brain-circuit.svg" width="16" /> **AI-Native Intelligence** — AI across every internal and external process, from predictive crowd management to personalized attendee experiences
-- <img src="https://raw.githubusercontent.com/CHI-Ecosystem/.github/main/profile/assets/icons/shield-check.svg" width="16" /> **Blockchain Security** — fraud-proof NFT ticketing and verifiable proof of attendance, cryptographically secured and instantly verifiable
+- <img src="https://raw.githubusercontent.com/CHI-Ecosystem/.github/main/profile/assets/icons/shield-check.svg" width="16" /> **Security by Design** — fraud-proof ticketing and verifiable proof of attendance, cryptographically secured and instantly verifiable
 - <img src="https://raw.githubusercontent.com/CHI-Ecosystem/.github/main/profile/assets/icons/layers.svg" width="16" /> **Seamless Ecosystem** — organizers, partners, and visitors on one platform. No data silos, just pure flow
 
 ## The Ecosystem
