@@ -1,0 +1,55 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1040" height="364" viewBox="0 0 1040 364" role="img" aria-labelledby="ft fd">
+<title id="ft">How the CHI event platform fits together</title>
+<desc id="fd">Visitors, crew, vendors, organizers, and venue owners connect through the CHI App and CHI Backstage to the CHI Platform — payments, ticketing, CRM and stakeholders, real-time analytics — all writing to live, consistent event data.</desc>
+<defs>
+<linearGradient id="flow" x1="0" y1="0" x2="1040" y2="0" gradientUnits="userSpaceOnUse">
+  <stop offset="0" stop-color="#E83C70"/><stop offset="1" stop-color="#9D4EDD"/>
+</linearGradient>
+<linearGradient id="card" x1="0" y1="0" x2="0" y2="1">
+  <stop offset="0" stop-color="#ffffff"/><stop offset="1" stop-color="#fdf4f7"/>
+</linearGradient>
+<linearGradient id="g" x1="0" y1="0" x2="1" y2="1">
+  <stop offset="0" stop-color="#E83C70"/><stop offset="1" stop-color="#9D4EDD"/>
+</linearGradient>
+</defs>
+<rect x="24" y="44" width="172" height="44" rx="22" fill="url(#card)" stroke="url(#flow)" stroke-opacity="0.65" stroke-width="1.4"/>
+<text x="110" y="71" text-anchor="middle" fill="#1f2328" font-family="-apple-system,'Segoe UI',Helvetica,Arial,sans-serif" font-size="13.5" font-weight="600">Visitors</text>
+<rect x="24" y="104" width="172" height="44" rx="22" fill="url(#card)" stroke="url(#flow)" stroke-opacity="0.65" stroke-width="1.4"/>
+<text x="110" y="131" text-anchor="middle" fill="#1f2328" font-family="-apple-system,'Segoe UI',Helvetica,Arial,sans-serif" font-size="13.5" font-weight="600">Crew &amp; Vendors</text>
+<rect x="24" y="204" width="172" height="44" rx="22" fill="url(#card)" stroke="url(#flow)" stroke-opacity="0.65" stroke-width="1.4"/>
+<text x="110" y="231" text-anchor="middle" fill="#1f2328" font-family="-apple-system,'Segoe UI',Helvetica,Arial,sans-serif" font-size="13.5" font-weight="600">Organizers</text>
+<rect x="24" y="264" width="172" height="44" rx="22" fill="url(#card)" stroke="url(#flow)" stroke-opacity="0.65" stroke-width="1.4"/>
+<text x="110" y="291" text-anchor="middle" fill="#1f2328" font-family="-apple-system,'Segoe UI',Helvetica,Arial,sans-serif" font-size="13.5" font-weight="600">Venue Owners</text>
+<rect x="268" y="58" width="170" height="72" rx="16" fill="url(#card)" stroke="url(#flow)" stroke-opacity="0.65" stroke-width="1.4"/>
+<g transform="translate(288,84) scale(0.833)"><g fill="none" stroke="url(#g)" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"><rect width="14" height="20" x="5" y="2" rx="2" ry="2"/><path d="M12 18h.01"/></g></g>
+<text x="318" y="100" fill="#1f2328" font-family="-apple-system,'Segoe UI',Helvetica,Arial,sans-serif" font-size="14" font-weight="600">CHI App</text>
+<rect x="268" y="218" width="170" height="72" rx="16" fill="url(#card)" stroke="url(#flow)" stroke-opacity="0.65" stroke-width="1.4"/>
+<g transform="translate(288,244) scale(0.833)"><g fill="none" stroke="url(#g)" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"><rect width="7" height="9" x="3" y="3" rx="1"/><rect width="7" height="5" x="14" y="3" rx="1"/><rect width="7" height="9" x="14" y="12" rx="1"/><rect width="7" height="5" x="3" y="16" rx="1"/></g></g>
+<text x="318" y="260" fill="#1f2328" font-family="-apple-system,'Segoe UI',Helvetica,Arial,sans-serif" font-size="14" font-weight="600">CHI Backstage</text>
+<rect x="500" y="36" width="330" height="292" rx="18" fill="#fbf6f9" stroke="url(#flow)" stroke-opacity="0.8" stroke-width="1.6"/>
+<g transform="translate(592,52) scale(0.750)"><path fill="none" stroke="url(#g)" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M4 14a1 1 0 0 1-.78-1.63l9.9-10.2a.5.5 0 0 1 .86.46l-1.92 6.02A1 1 0 0 0 13 10h7a1 1 0 0 1 .78 1.63l-9.9 10.2a.5.5 0 0 1-.86-.46l1.92-6.02A1 1 0 0 0 11 14z"/></g>
+<text x="616" y="66" fill="url(#g)" font-family="-apple-system,'Segoe UI',Helvetica,Arial,sans-serif" font-size="15" font-weight="700">CHI Platform</text>
+<rect x="520" y="88" width="130" height="100" rx="14" fill="url(#card)" stroke="url(#flow)" stroke-opacity="0.5" stroke-width="1.2"/>
+<g transform="translate(573,106) scale(1.000)"><g fill="none" stroke="url(#g)" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"><path d="M19 7V4a1 1 0 0 0-1-1H5a2 2 0 0 0 0 4h15a1 1 0 0 1 1 1v4h-3a2 2 0 0 0 0 4h3a1 1 0 0 0 1-1v-2a1 1 0 0 0-1-1"/><path d="M3 5v14a2 2 0 0 0 2 2h15a1 1 0 0 0 1-1v-4"/></g></g>
+<text x="585" y="160" text-anchor="middle" fill="#1f2328" font-family="-apple-system,'Segoe UI',Helvetica,Arial,sans-serif" font-size="12.5" font-weight="600">Payments</text>
+<rect x="680" y="88" width="130" height="100" rx="14" fill="url(#card)" stroke="url(#flow)" stroke-opacity="0.5" stroke-width="1.2"/>
+<g transform="translate(733,106) scale(1.000)"><path fill="none" stroke="url(#g)" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M2 9a3 3 0 0 1 0 6v2a2 2 0 0 0 2 2h16a2 2 0 0 0 2-2v-2a3 3 0 0 1 0-6V7a2 2 0 0 0-2-2H4a2 2 0 0 0-2 2Zm11-4v2m0 10v2m0-8v2"/></g>
+<text x="745" y="160" text-anchor="middle" fill="#1f2328" font-family="-apple-system,'Segoe UI',Helvetica,Arial,sans-serif" font-size="12.5" font-weight="600">Ticketing</text>
+<rect x="520" y="206" width="130" height="100" rx="14" fill="url(#card)" stroke="url(#flow)" stroke-opacity="0.5" stroke-width="1.2"/>
+<g transform="translate(573,224) scale(1.000)"><g fill="none" stroke="url(#g)" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"><path d="M18 21a8 8 0 0 0-16 0"/><circle cx="10" cy="8" r="5"/><path d="M22 20c0-3.37-2-6.5-4-8a5 5 0 0 0-.45-8.3"/></g></g>
+<text x="585" y="278" text-anchor="middle" fill="#1f2328" font-family="-apple-system,'Segoe UI',Helvetica,Arial,sans-serif" font-size="12.5" font-weight="600">CRM &amp; Partners</text>
+<rect x="680" y="206" width="130" height="100" rx="14" fill="url(#card)" stroke="url(#flow)" stroke-opacity="0.5" stroke-width="1.2"/>
+<g transform="translate(733,224) scale(1.000)"><path fill="none" stroke="url(#g)" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M22 12h-2.48a2 2 0 0 0-1.93 1.46l-2.35 8.36a.25.25 0 0 1-.48 0L9.24 2.18a.25.25 0 0 0-.48 0l-2.35 8.36A2 2 0 0 1 4.49 12H2"/></g>
+<text x="745" y="278" text-anchor="middle" fill="#1f2328" font-family="-apple-system,'Segoe UI',Helvetica,Arial,sans-serif" font-size="12.5" font-weight="600">Analytics</text>
+<path d="M884 144 v76 a66.0 16 0 0 0 132 0 v-76" fill="url(#card)" stroke="url(#flow)" stroke-opacity="0.65" stroke-width="1.4"/>
+<ellipse cx="950.0" cy="144" rx="66.0" ry="16" fill="url(#card)" stroke="url(#flow)" stroke-opacity="0.65" stroke-width="1.4"/>
+<text x="950.0" y="190" text-anchor="middle" fill="#1f2328" font-family="-apple-system,'Segoe UI',Helvetica,Arial,sans-serif" font-size="13" font-weight="600">Event data</text>
+<text x="950.0" y="208" text-anchor="middle" fill="#57606a" font-family="-apple-system,'Segoe UI',Helvetica,Arial,sans-serif" font-size="11.5">live &amp; consistent</text>
+<path d="M196 66 C232.0 66, 232.0 86, 268 86" fill="none" stroke="url(#flow)" stroke-width="2" stroke-linecap="round"/><path d="M261 81.5 L268 86 L261 90.5" fill="none" stroke="url(#flow)" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M196 126 C232.0 126, 232.0 102, 268 102" fill="none" stroke="url(#flow)" stroke-width="2" stroke-linecap="round"/><path d="M261 97.5 L268 102 L261 106.5" fill="none" stroke="url(#flow)" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M196 226 C232.0 226, 232.0 246, 268 246" fill="none" stroke="url(#flow)" stroke-width="2" stroke-linecap="round"/><path d="M261 241.5 L268 246 L261 250.5" fill="none" stroke="url(#flow)" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M196 286 C232.0 286, 232.0 262, 268 262" fill="none" stroke="url(#flow)" stroke-width="2" stroke-linecap="round"/><path d="M261 257.5 L268 262 L261 266.5" fill="none" stroke="url(#flow)" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M438 94 C469.0 94, 469.0 140, 500 140" fill="none" stroke="url(#flow)" stroke-width="2" stroke-linecap="round"/><path d="M493 135.5 L500 140 L493 144.5" fill="none" stroke="url(#flow)" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M438 254 C469.0 254, 469.0 224, 500 224" fill="none" stroke="url(#flow)" stroke-width="2" stroke-linecap="round"/><path d="M493 219.5 L500 224 L493 228.5" fill="none" stroke="url(#flow)" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M830 182 C857.0 182, 857.0 182, 884 182" fill="none" stroke="url(#flow)" stroke-width="2" stroke-linecap="round"/><path d="M877 177.5 L884 182 L877 186.5" fill="none" stroke="url(#flow)" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+</svg>
