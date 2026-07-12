@@ -109,7 +109,7 @@ Born in **Rotterdam**, where Dutch event culture meets a world-class tech sector
 
 ## Under the hood
 
-Built by engineers (human *and* AI) who like their systems the way they like their festivals: high-throughput, fault-tolerant, and still standing at 4 AM.
+Built by engineers (human *and* AI) who like their systems the way they like their festivals: high-throughput, fault-tolerant, and still standing at 4 AM. We build on open source wherever possible — battle-tested infrastructure over black boxes.
 
 **Languages & apps**
 
