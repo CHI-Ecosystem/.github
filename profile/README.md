@@ -48,17 +48,17 @@ No hardware lock-in. Any phone or tablet becomes a point of sale, a ticket scann
 
 Modular, plug-and-play solutions for every aspect of your event:
 
-| | Module | What it does |
-|---|---|---|
-| <img src="https://raw.githubusercontent.com/CHI-Ecosystem/.github/main/profile/assets/icons/ticket.svg" width="24" /> | **[CHI Tickets](https://chi.app/en/chi-tickets)** | Smart, secure event tickets — marketplace, transfers, digital twins, referrals, and analytics |
-| <img src="https://raw.githubusercontent.com/CHI-Ecosystem/.github/main/profile/assets/icons/wallet.svg" width="24" /> | **[CHI Payments](https://chi.app/en/chi-payments)** | Cashless payments over QR, NFC & Tap to Pay — orchestrated across multiple PSPs, with split payments between parties, digital token wallets, top-ups, refunds, live revenue tracking, and settlement controls |
-| <img src="https://raw.githubusercontent.com/CHI-Ecosystem/.github/main/profile/assets/icons/smartphone.svg" width="24" /> | **CHI App** | One mobile experience for visitors *and* crew — tickets, wallet, QR/NFC, and event info. [iOS](https://apps.apple.com/us/app/chi-app-new/id6759359337) · [Android](https://play.google.com/store/apps/details?id=app.chi.mobile) · [PWA](https://web.chi.app) |
-| <img src="https://raw.githubusercontent.com/CHI-Ecosystem/.github/main/profile/assets/icons/layout-dashboard.svg" width="24" /> | **[CHI Backstage](https://backstage.chi.app)** | The event command center — event creation, crew management, revenue analytics, access control |
-| <img src="https://raw.githubusercontent.com/CHI-Ecosystem/.github/main/profile/assets/icons/users.svg" width="24" /> | **[CHI CRM](https://chi.app/en/chi-crm)** | 360° visitor insights — attendee profiles, segmentation, and engagement tools |
-| <img src="https://raw.githubusercontent.com/CHI-Ecosystem/.github/main/profile/assets/icons/handshake.svg" width="24" /> | **[CHI Stakeholders](https://chi.app/en/chi-stakeholders)** | Vendor, sponsor & partner portal with settlement management |
-| <img src="https://raw.githubusercontent.com/CHI-Ecosystem/.github/main/profile/assets/icons/crown.svg" width="24" /> | **[CHI VIP](https://chi.app/en/chi-vip)** | Premium tables, guest management, credits, and concierge-style event flows |
-| <img src="https://raw.githubusercontent.com/CHI-Ecosystem/.github/main/profile/assets/icons/ticket-percent.svg" width="24" /> | **[CHI Coupons](https://chi.app/en/chi-coupons)** | Programmable coupons — promo codes, vouchers, discounts, and redemption analytics |
-| <img src="https://raw.githubusercontent.com/CHI-Ecosystem/.github/main/profile/assets/icons/trending-up.svg" width="24" /> | **[CHI Kickback](https://chi.app/en/chi-kickback)** | Earn your ticket back — referral and rewards tooling for attendees and promoters |
+| Module | What it does |
+|---|---|
+| <img src="https://raw.githubusercontent.com/CHI-Ecosystem/.github/main/profile/assets/icons/ticket.svg" width="24" /> **[CHI Tickets](https://chi.app/en/chi-tickets)** | Smart, secure event tickets — marketplace, transfers, digital twins, referrals, and analytics |
+| <img src="https://raw.githubusercontent.com/CHI-Ecosystem/.github/main/profile/assets/icons/wallet.svg" width="24" /> **[CHI Payments](https://chi.app/en/chi-payments)** | Cashless payments over QR, NFC & Tap to Pay — orchestrated across multiple PSPs, with split payments between parties, digital token wallets, top-ups, refunds, live revenue tracking, and settlement controls |
+| <img src="https://raw.githubusercontent.com/CHI-Ecosystem/.github/main/profile/assets/icons/smartphone.svg" width="24" /> **CHI App** | One mobile experience for visitors *and* crew — tickets, wallet, QR/NFC, and event info. [iOS](https://apps.apple.com/us/app/chi-app-new/id6759359337) · [Android](https://play.google.com/store/apps/details?id=app.chi.mobile) · [PWA](https://web.chi.app) |
+| <img src="https://raw.githubusercontent.com/CHI-Ecosystem/.github/main/profile/assets/icons/layout-dashboard.svg" width="24" /> **[CHI Backstage](https://backstage.chi.app)** | The event command center — event creation, crew management, revenue analytics, access control |
+| <img src="https://raw.githubusercontent.com/CHI-Ecosystem/.github/main/profile/assets/icons/users.svg" width="24" /> **[CHI CRM](https://chi.app/en/chi-crm)** | 360° visitor insights — attendee profiles, segmentation, and engagement tools |
+| <img src="https://raw.githubusercontent.com/CHI-Ecosystem/.github/main/profile/assets/icons/handshake.svg" width="24" /> **[CHI Stakeholders](https://chi.app/en/chi-stakeholders)** | Vendor, sponsor & partner portal with settlement management |
+| <img src="https://raw.githubusercontent.com/CHI-Ecosystem/.github/main/profile/assets/icons/crown.svg" width="24" /> **[CHI VIP](https://chi.app/en/chi-vip)** | Premium tables, guest management, credits, and concierge-style event flows |
+| <img src="https://raw.githubusercontent.com/CHI-Ecosystem/.github/main/profile/assets/icons/ticket-percent.svg" width="24" /> **[CHI Coupons](https://chi.app/en/chi-coupons)** | Programmable coupons — promo codes, vouchers, discounts, and redemption analytics |
+| <img src="https://raw.githubusercontent.com/CHI-Ecosystem/.github/main/profile/assets/icons/trending-up.svg" width="24" /> **[CHI Kickback](https://chi.app/en/chi-kickback)** | Earn your ticket back — referral and rewards tooling for attendees and promoters |
 
 Everything is white-label ready — organizers ship a fully branded app experience without writing a line of code.
 
@@ -66,13 +66,13 @@ Everything is white-label ready — organizers ship a fully branded app experien
 
 CHI isn't just an app, it's a platform. The same core that powers our own 100+ AI agents is what you integrate with:
 
-| | Surface | What you get |
-|---|---|---|
-| <img src="https://raw.githubusercontent.com/CHI-Ecosystem/.github/main/profile/assets/icons/plug.svg" width="24" /> | **REST API** | The full platform — tickets, payments, CRM, analytics — behind one API gateway |
-| <img src="https://raw.githubusercontent.com/CHI-Ecosystem/.github/main/profile/assets/icons/package.svg" width="24" /> | **TypeScript SDKs** | Typed clients generated straight from the API — what our own web & mobile apps run on |
-| <img src="https://raw.githubusercontent.com/CHI-Ecosystem/.github/main/profile/assets/icons/terminal.svg" width="24" /> | **CLI** | Event operations from your terminal, CI, or agents like Hermes and OpenClaw |
-| <img src="https://raw.githubusercontent.com/CHI-Ecosystem/.github/main/profile/assets/icons/bot.svg" width="24" /> | **MCP server** | Plug CHI into Claude, agents, and any MCP-compatible tooling — the event OS as a toolset |
-| <img src="https://raw.githubusercontent.com/CHI-Ecosystem/.github/main/profile/assets/icons/file-text.svg" width="24" /> | **llms.txt** | Machine-readable public context at [/llms.txt](https://chi.app/llms.txt) & [/llms-full.txt](https://chi.app/llms-full.txt) — AI-agent friendly by design |
+| Surface | What you get |
+|---|---|
+| <img src="https://raw.githubusercontent.com/CHI-Ecosystem/.github/main/profile/assets/icons/plug.svg" width="24" /> **REST API** | The full platform — tickets, payments, CRM, analytics — behind one API gateway |
+| <img src="https://raw.githubusercontent.com/CHI-Ecosystem/.github/main/profile/assets/icons/package.svg" width="24" /> **TypeScript SDKs** | Typed clients generated straight from the API — what our own web & mobile apps run on |
+| <img src="https://raw.githubusercontent.com/CHI-Ecosystem/.github/main/profile/assets/icons/terminal.svg" width="24" /> **CLI** | Event operations from your terminal, CI, or agents like Hermes and OpenClaw |
+| <img src="https://raw.githubusercontent.com/CHI-Ecosystem/.github/main/profile/assets/icons/bot.svg" width="24" /> **MCP server** | Plug CHI into Claude, agents, and any MCP-compatible tooling — the event OS as a toolset |
+| <img src="https://raw.githubusercontent.com/CHI-Ecosystem/.github/main/profile/assets/icons/file-text.svg" width="24" /> **llms.txt** | Machine-readable public context at [/llms.txt](https://chi.app/llms.txt) & [/llms-full.txt](https://chi.app/llms-full.txt) — AI-agent friendly by design |
 
 Start at the [developer overview →](https://chi.app/en/developers)
 
