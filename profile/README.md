@@ -120,6 +120,18 @@ Built by engineers (human *and* AI) who like their systems the way they like the
 ![React Native](https://img.shields.io/badge/React%20Native-087EA4?style=flat-square&logo=react&logoColor=white)
 ![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white)
 ![PWA](https://img.shields.io/badge/PWA-5A0FC8?style=flat-square&logo=pwa&logoColor=white)
+![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=flat-square)
+![Detox](https://img.shields.io/badge/Detox-7166F9?style=flat-square)
+
+**AI**
+
+![Claude](https://img.shields.io/badge/Claude-D97757?style=flat-square&logo=claude&logoColor=white)
+![ChatGPT](https://img.shields.io/badge/ChatGPT-412991?style=flat-square&logo=openai&logoColor=white)
+![GLM](https://img.shields.io/badge/GLM-2D68FF?style=flat-square)
+![MiniMax](https://img.shields.io/badge/MiniMax-FF2E4D?style=flat-square)
+![Hermes](https://img.shields.io/badge/Hermes-1A1A2E?style=flat-square)
+![Groq](https://img.shields.io/badge/Groq-F55036?style=flat-square)
+![LiteLLM](https://img.shields.io/badge/LiteLLM-0E8A16?style=flat-square)
 
 **Platform & data**
 
@@ -149,6 +161,7 @@ Built by engineers (human *and* AI) who like their systems the way they like the
 - **AI-native pipeline** — RAG agents for product creation, AI-simulated event testing, agents embedded from code to ops
 - **AI workforce** — 100+ autonomous agents run the backlog in continuous loops: pick up an issue, spin up an isolated workspace, ship, repeat — coordinating through a shared brain of docs, decisions, and learnings
 - **Offline-tolerant ticketing** — gates keep scanning when festival Wi-Fi doesn't
+- **Simulated festivals** — every release is rehearsed end to end: AI-generated event scenarios drive fleets of visitor, crew, and organizer apps through real ticket, payment, and settlement flows before the doors ever open (Playwright & Detox)
 - **Full observability** — metrics, logs, and traces on every transaction
 - **Ship fast, ship safe** — automated release pipelines with staged promotion from test → staging → production
 
@@ -171,13 +184,8 @@ We treat AI agents as full members of the crew — now we're hiring more humans 
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/CHI-Ecosystem/.github/metrics/github-metrics-dark.svg" />
-  <img src="https://raw.githubusercontent.com/CHI-Ecosystem/.github/metrics/github-metrics-light.svg" alt="CHI Ecosystem metrics — refreshed daily" width="480" />
-</picture>
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/CHI-Ecosystem/.github/metrics/github-activity-dark.svg" />
-  <img src="https://raw.githubusercontent.com/CHI-Ecosystem/.github/metrics/github-activity-light.svg" alt="Commit activity across the CHI Ecosystem — last 12 months" width="480" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/CHI-Ecosystem/.github/metrics/org-pulse-dark.svg" />
+  <img src="https://raw.githubusercontent.com/CHI-Ecosystem/.github/metrics/org-pulse-light.svg" alt="CHI Ecosystem engineering metrics: active repositories, thousands of releases and merged pull requests, most-used languages, and 12-month commit activity of the event technology platform powering cashless payments, smart ticketing, and real-time event analytics — refreshed daily" width="100%" />
 </picture>
 
 </div>
