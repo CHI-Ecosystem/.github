@@ -28,10 +28,7 @@ No hardware lock-in. Any phone or tablet becomes a point of sale, a ticket scann
 
 <div align="center">
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/CHI-Ecosystem/.github/main/profile/assets/journey-dark.svg" />
-  <img src="https://raw.githubusercontent.com/CHI-Ecosystem/.github/main/profile/assets/journey-light.svg" alt="The CHI journey: ticket sold, gate scanned, card connected, wallet topped up, food drinks and merch, vendor settled, organizer paid out — one platform, real-time, end to end" width="100%" />
-</picture>
+<img src="https://raw.githubusercontent.com/CHI-Ecosystem/.github/main/profile/assets/journey-dark.svg" alt="The CHI journey: ticket sold, gate scanned, card connected, wallet topped up, food drinks and merch, vendor settled, organizer paid out — one platform, real-time, end to end" width="100%" />
 
 <sub><a href="https://raw.githubusercontent.com/CHI-Ecosystem/.github/main/profile/assets/journey-dark.svg">⤢ open full screen</a></sub>
 
@@ -83,10 +80,7 @@ Start at the [developer overview →](https://chi.app/en/developers)
 
 <div align="center">
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/CHI-Ecosystem/.github/main/profile/assets/fits-dark.svg" />
-  <img src="https://raw.githubusercontent.com/CHI-Ecosystem/.github/main/profile/assets/fits-light.svg" alt="How CHI fits together: visitors, crew and vendors use the CHI App; organizers and venue owners use CHI Backstage; both connect to the CHI Platform — payments, ticketing, CRM and partners, real-time analytics — writing to live, consistent event data" width="100%" />
-</picture>
+<img src="https://raw.githubusercontent.com/CHI-Ecosystem/.github/main/profile/assets/fits-dark.svg" alt="How CHI fits together: visitors, crew and vendors use the CHI App; organizers and venue owners use CHI Backstage; both connect to the CHI Platform — payments, ticketing, CRM and partners, real-time analytics — writing to live, consistent event data" width="100%" />
 
 <sub><a href="https://raw.githubusercontent.com/CHI-Ecosystem/.github/main/profile/assets/fits-dark.svg">⤢ open full screen</a></sub>
 
@@ -186,10 +180,7 @@ We treat AI agents as full members of the crew — now we're hiring more humans 
 
 <div align="center">
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/CHI-Ecosystem/.github/metrics/org-pulse-dark.svg" />
-  <img src="https://raw.githubusercontent.com/CHI-Ecosystem/.github/metrics/org-pulse-light.svg" alt="CHI Ecosystem engineering metrics: active repositories, thousands of releases and merged pull requests, most-used languages, and 12-month commit activity of the event technology platform powering cashless payments, smart ticketing, and real-time event analytics — refreshed daily" width="100%" />
-</picture>
+<img src="https://raw.githubusercontent.com/CHI-Ecosystem/.github/metrics/org-pulse-dark.svg" alt="CHI Ecosystem engineering metrics: active repositories, thousands of releases and merged pull requests, most-used languages, and 12-month commit activity of the event technology platform powering cashless payments, smart ticketing, and real-time event analytics — refreshed daily" width="100%" />
 
 <sub><a href="https://raw.githubusercontent.com/CHI-Ecosystem/.github/metrics/org-pulse-dark.svg">⤢ open full screen</a></sub>
 
