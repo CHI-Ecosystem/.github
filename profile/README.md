@@ -132,6 +132,7 @@ Built by engineers (human *and* AI) who like their systems the way they like the
 ![Hermes](https://img.shields.io/badge/Hermes-1A1A2E?style=flat-square)
 ![Groq](https://img.shields.io/badge/Groq-F55036?style=flat-square)
 ![LiteLLM](https://img.shields.io/badge/LiteLLM-0E8A16?style=flat-square)
+![E2B](https://img.shields.io/badge/E2B-FF8800?style=flat-square)
 
 **Platform & data**
 
