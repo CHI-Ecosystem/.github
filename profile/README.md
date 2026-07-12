@@ -50,15 +50,15 @@ Modular, plug-and-play solutions for every aspect of your event:
 
 | | Module | What it does |
 |---|---|---|
-| <img src="https://raw.githubusercontent.com/CHI-Ecosystem/.github/main/profile/assets/icons/ticket.svg" width="20" /> | **[CHI Tickets](https://chi.app/en/chi-tickets)** | Smart, secure event tickets — marketplace, transfers, digital twins, referrals, and analytics |
-| <img src="https://raw.githubusercontent.com/CHI-Ecosystem/.github/main/profile/assets/icons/wallet.svg" width="20" /> | **[CHI Payments](https://chi.app/en/chi-payments)** | Cashless payments over QR, NFC & Tap to Pay — orchestrated across multiple PSPs, with split payments between parties, digital token wallets, top-ups, refunds, live revenue tracking, and settlement controls |
-| <img src="https://raw.githubusercontent.com/CHI-Ecosystem/.github/main/profile/assets/icons/smartphone.svg" width="20" /> | **CHI App** | One mobile experience for visitors *and* crew — tickets, wallet, QR/NFC, and event info. [iOS](https://apps.apple.com/us/app/chi-app-new/id6759359337) · [Android](https://play.google.com/store/apps/details?id=app.chi.mobile) · [PWA](https://web.chi.app) |
-| <img src="https://raw.githubusercontent.com/CHI-Ecosystem/.github/main/profile/assets/icons/layout-dashboard.svg" width="20" /> | **[CHI Backstage](https://backstage.chi.app)** | The event command center — event creation, crew management, revenue analytics, access control |
-| <img src="https://raw.githubusercontent.com/CHI-Ecosystem/.github/main/profile/assets/icons/users.svg" width="20" /> | **[CHI CRM](https://chi.app/en/chi-crm)** | 360° visitor insights — attendee profiles, segmentation, and engagement tools |
-| <img src="https://raw.githubusercontent.com/CHI-Ecosystem/.github/main/profile/assets/icons/handshake.svg" width="20" /> | **[CHI Stakeholders](https://chi.app/en/chi-stakeholders)** | Vendor, sponsor & partner portal with settlement management |
-| <img src="https://raw.githubusercontent.com/CHI-Ecosystem/.github/main/profile/assets/icons/crown.svg" width="20" /> | **[CHI VIP](https://chi.app/en/chi-vip)** | Premium tables, guest management, credits, and concierge-style event flows |
-| <img src="https://raw.githubusercontent.com/CHI-Ecosystem/.github/main/profile/assets/icons/ticket-percent.svg" width="20" /> | **[CHI Coupons](https://chi.app/en/chi-coupons)** | Programmable coupons — promo codes, vouchers, discounts, and redemption analytics |
-| <img src="https://raw.githubusercontent.com/CHI-Ecosystem/.github/main/profile/assets/icons/trending-up.svg" width="20" /> | **[CHI Kickback](https://chi.app/en/chi-kickback)** | Earn your ticket back — referral and rewards tooling for attendees and promoters |
+| <img src="https://raw.githubusercontent.com/CHI-Ecosystem/.github/main/profile/assets/icons/ticket.svg" width="24" /> | **[CHI Tickets](https://chi.app/en/chi-tickets)** | Smart, secure event tickets — marketplace, transfers, digital twins, referrals, and analytics |
+| <img src="https://raw.githubusercontent.com/CHI-Ecosystem/.github/main/profile/assets/icons/wallet.svg" width="24" /> | **[CHI Payments](https://chi.app/en/chi-payments)** | Cashless payments over QR, NFC & Tap to Pay — orchestrated across multiple PSPs, with split payments between parties, digital token wallets, top-ups, refunds, live revenue tracking, and settlement controls |
+| <img src="https://raw.githubusercontent.com/CHI-Ecosystem/.github/main/profile/assets/icons/smartphone.svg" width="24" /> | **CHI App** | One mobile experience for visitors *and* crew — tickets, wallet, QR/NFC, and event info. [iOS](https://apps.apple.com/us/app/chi-app-new/id6759359337) · [Android](https://play.google.com/store/apps/details?id=app.chi.mobile) · [PWA](https://web.chi.app) |
+| <img src="https://raw.githubusercontent.com/CHI-Ecosystem/.github/main/profile/assets/icons/layout-dashboard.svg" width="24" /> | **[CHI Backstage](https://backstage.chi.app)** | The event command center — event creation, crew management, revenue analytics, access control |
+| <img src="https://raw.githubusercontent.com/CHI-Ecosystem/.github/main/profile/assets/icons/users.svg" width="24" /> | **[CHI CRM](https://chi.app/en/chi-crm)** | 360° visitor insights — attendee profiles, segmentation, and engagement tools |
+| <img src="https://raw.githubusercontent.com/CHI-Ecosystem/.github/main/profile/assets/icons/handshake.svg" width="24" /> | **[CHI Stakeholders](https://chi.app/en/chi-stakeholders)** | Vendor, sponsor & partner portal with settlement management |
+| <img src="https://raw.githubusercontent.com/CHI-Ecosystem/.github/main/profile/assets/icons/crown.svg" width="24" /> | **[CHI VIP](https://chi.app/en/chi-vip)** | Premium tables, guest management, credits, and concierge-style event flows |
+| <img src="https://raw.githubusercontent.com/CHI-Ecosystem/.github/main/profile/assets/icons/ticket-percent.svg" width="24" /> | **[CHI Coupons](https://chi.app/en/chi-coupons)** | Programmable coupons — promo codes, vouchers, discounts, and redemption analytics |
+| <img src="https://raw.githubusercontent.com/CHI-Ecosystem/.github/main/profile/assets/icons/trending-up.svg" width="24" /> | **[CHI Kickback](https://chi.app/en/chi-kickback)** | Earn your ticket back — referral and rewards tooling for attendees and promoters |
 
 Everything is white-label ready — organizers ship a fully branded app experience without writing a line of code.
 
@@ -68,11 +68,11 @@ CHI isn't just an app, it's a platform. The same core that powers our own 100+ A
 
 | | Surface | What you get |
 |---|---|---|
-| <img src="https://raw.githubusercontent.com/CHI-Ecosystem/.github/main/profile/assets/icons/plug.svg" width="18" /> | **REST API** | The full platform — tickets, payments, CRM, analytics — behind one API gateway |
-| <img src="https://raw.githubusercontent.com/CHI-Ecosystem/.github/main/profile/assets/icons/package.svg" width="18" /> | **TypeScript SDKs** | Typed clients generated straight from the API — what our own web & mobile apps run on |
-| <img src="https://raw.githubusercontent.com/CHI-Ecosystem/.github/main/profile/assets/icons/terminal.svg" width="18" /> | **CLI** | Script and automate event operations from your terminal, your CI, or agents like Hermes and OpenClaw |
-| <img src="https://raw.githubusercontent.com/CHI-Ecosystem/.github/main/profile/assets/icons/bot.svg" width="18" /> | **MCP server** | Plug CHI into Claude, agents, and any MCP-compatible tooling — the event OS as a toolset |
-| <img src="https://raw.githubusercontent.com/CHI-Ecosystem/.github/main/profile/assets/icons/file-text.svg" width="18" /> | **llms.txt** | Machine-readable public context at [/llms.txt](https://chi.app/llms.txt) & [/llms-full.txt](https://chi.app/llms-full.txt) — AI-agent friendly by design |
+| <img src="https://raw.githubusercontent.com/CHI-Ecosystem/.github/main/profile/assets/icons/plug.svg" width="24" /> | **REST API** | The full platform — tickets, payments, CRM, analytics — behind one API gateway |
+| <img src="https://raw.githubusercontent.com/CHI-Ecosystem/.github/main/profile/assets/icons/package.svg" width="24" /> | **TypeScript SDKs** | Typed clients generated straight from the API — what our own web & mobile apps run on |
+| <img src="https://raw.githubusercontent.com/CHI-Ecosystem/.github/main/profile/assets/icons/terminal.svg" width="24" /> | **CLI** | Script and automate event operations from your terminal, your CI, or agents like Hermes and OpenClaw |
+| <img src="https://raw.githubusercontent.com/CHI-Ecosystem/.github/main/profile/assets/icons/bot.svg" width="24" /> | **MCP server** | Plug CHI into Claude, agents, and any MCP-compatible tooling — the event OS as a toolset |
+| <img src="https://raw.githubusercontent.com/CHI-Ecosystem/.github/main/profile/assets/icons/file-text.svg" width="24" /> | **llms.txt** | Machine-readable public context at [/llms.txt](https://chi.app/llms.txt) & [/llms-full.txt](https://chi.app/llms-full.txt) — AI-agent friendly by design |
 
 Start at the [developer overview →](https://chi.app/en/developers)
 
@@ -164,7 +164,7 @@ Built by engineers (human *and* AI) who like their systems the way they like the
 
 > Our product source lives in private repositories. Want to see the inside? [There's a door for that. →](https://chi.app/en/careers)
 
-## Join the crew <img src="https://raw.githubusercontent.com/CHI-Ecosystem/.github/main/profile/assets/icons/rocket.svg" width="20" />
+## Join the crew <img src="https://raw.githubusercontent.com/CHI-Ecosystem/.github/main/profile/assets/icons/rocket.svg" width="24" />
 
 We treat AI agents as full members of the crew — now we're hiring more humans to direct them. Small team, outsized impact, no job titles, real ownership. Engineering, AI, product, and event-success roles across our hubs.
 
@@ -176,7 +176,7 @@ We treat AI agents as full members of the crew — now we're hiring more humans 
 
 </div>
 
-## Org pulse <img src="https://raw.githubusercontent.com/CHI-Ecosystem/.github/main/profile/assets/icons/activity.svg" width="20" />
+## Org pulse <img src="https://raw.githubusercontent.com/CHI-Ecosystem/.github/main/profile/assets/icons/activity.svg" width="24" />
 
 <div align="center">
 
@@ -190,7 +190,7 @@ We treat AI agents as full members of the crew — now we're hiring more humans 
 
 <div align="center">
 
-<a href="https://chi.app" title="Website"><img src="https://raw.githubusercontent.com/CHI-Ecosystem/.github/main/profile/assets/icons/globe.svg" width="20" alt="Website" /></a>&emsp;<a href="https://chi.app/en/about" title="About"><img src="https://raw.githubusercontent.com/CHI-Ecosystem/.github/main/profile/assets/icons/info.svg" width="20" alt="About" /></a>&emsp;<a href="https://chi.app/en/developers" title="Developers"><img src="https://raw.githubusercontent.com/CHI-Ecosystem/.github/main/profile/assets/icons/code-xml.svg" width="20" alt="Developers" /></a>&emsp;<a href="https://chi.app/en/support" title="Support"><img src="https://raw.githubusercontent.com/CHI-Ecosystem/.github/main/profile/assets/icons/life-buoy.svg" width="20" alt="Support" /></a>&emsp;<a href="https://www.linkedin.com/company/eventchi" title="LinkedIn"><img src="https://raw.githubusercontent.com/CHI-Ecosystem/.github/main/profile/assets/icons/si-linkedin.svg" width="20" alt="LinkedIn" /></a>&emsp;<a href="https://x.com/eventchi" title="X"><img src="https://raw.githubusercontent.com/CHI-Ecosystem/.github/main/profile/assets/icons/si-x.svg" width="20" alt="X" /></a>&emsp;<a href="https://instagram.com/eventchi" title="Instagram"><img src="https://raw.githubusercontent.com/CHI-Ecosystem/.github/main/profile/assets/icons/si-instagram.svg" width="20" alt="Instagram" /></a>&emsp;<a href="https://youtube.com/@eventchi" title="YouTube"><img src="https://raw.githubusercontent.com/CHI-Ecosystem/.github/main/profile/assets/icons/si-youtube.svg" width="20" alt="YouTube" /></a>&emsp;<a href="https://tiktok.com/@eventchi" title="TikTok"><img src="https://raw.githubusercontent.com/CHI-Ecosystem/.github/main/profile/assets/icons/si-tiktok.svg" width="20" alt="TikTok" /></a>
+<a href="https://chi.app" title="Website"><img src="https://raw.githubusercontent.com/CHI-Ecosystem/.github/main/profile/assets/icons/globe.svg" width="24" alt="Website" /></a>&emsp;<a href="https://chi.app/en/about" title="About"><img src="https://raw.githubusercontent.com/CHI-Ecosystem/.github/main/profile/assets/icons/info.svg" width="24" alt="About" /></a>&emsp;<a href="https://chi.app/en/developers" title="Developers"><img src="https://raw.githubusercontent.com/CHI-Ecosystem/.github/main/profile/assets/icons/code-xml.svg" width="24" alt="Developers" /></a>&emsp;<a href="https://chi.app/en/support" title="Support"><img src="https://raw.githubusercontent.com/CHI-Ecosystem/.github/main/profile/assets/icons/life-buoy.svg" width="24" alt="Support" /></a>&emsp;<a href="https://www.linkedin.com/company/eventchi" title="LinkedIn"><img src="https://raw.githubusercontent.com/CHI-Ecosystem/.github/main/profile/assets/icons/si-linkedin.svg" width="24" alt="LinkedIn" /></a>&emsp;<a href="https://x.com/eventchi" title="X"><img src="https://raw.githubusercontent.com/CHI-Ecosystem/.github/main/profile/assets/icons/si-x.svg" width="24" alt="X" /></a>&emsp;<a href="https://instagram.com/eventchi" title="Instagram"><img src="https://raw.githubusercontent.com/CHI-Ecosystem/.github/main/profile/assets/icons/si-instagram.svg" width="24" alt="Instagram" /></a>&emsp;<a href="https://youtube.com/@eventchi" title="YouTube"><img src="https://raw.githubusercontent.com/CHI-Ecosystem/.github/main/profile/assets/icons/si-youtube.svg" width="24" alt="YouTube" /></a>&emsp;<a href="https://tiktok.com/@eventchi" title="TikTok"><img src="https://raw.githubusercontent.com/CHI-Ecosystem/.github/main/profile/assets/icons/si-tiktok.svg" width="24" alt="TikTok" /></a>
 
 </div>
 
