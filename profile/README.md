@@ -66,7 +66,7 @@ Everything is white-label ready — organizers ship a fully branded app experien
 
 CHI isn't just an app, it's a platform. The same core that powers our own 100+ AI agents is what you integrate with:
 
-| Surface | What you get |
+| Surface | What you get<br/><img src="https://raw.githubusercontent.com/CHI-Ecosystem/.github/main/profile/assets/spacer.svg" width="820" height="1" alt="" /> |
 |---|---|
 | <img src="https://raw.githubusercontent.com/CHI-Ecosystem/.github/main/profile/assets/icons/plug.svg" width="24" /> **REST&nbsp;API** | The full platform — tickets, payments, CRM, analytics — behind one API gateway |
 | <img src="https://raw.githubusercontent.com/CHI-Ecosystem/.github/main/profile/assets/icons/package.svg" width="24" /> **TypeScript&nbsp;SDKs** | Typed clients generated straight from the API — what our own web & mobile apps run on |
