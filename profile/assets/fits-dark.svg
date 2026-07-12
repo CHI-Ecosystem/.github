@@ -1,5 +1,4 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="1040" height="500" viewBox="0 0 1040 500" role="img" aria-labelledby="ft fd">
-<rect width="1040" height="500" rx="24" fill="#0d0a10"/>
 <title id="ft">How the CHI event platform fits together</title>
 <desc id="fd">Visitors, crew, vendors, organizers, and venue owners connect through the CHI App and CHI Backstage; integrations and AI agents connect through the API, SDKs, CLI, and MCP server. Everything flows into the CHI Platform — payments, ticketing, CRM and stakeholders, real-time analytics — writing to live, consistent event data.</desc>
 <defs>
