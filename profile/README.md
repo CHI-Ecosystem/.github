@@ -70,7 +70,7 @@ CHI isn't just an app, it's a platform. The same core that powers our own 100+ A
 |---|---|---|
 | <img src="https://raw.githubusercontent.com/CHI-Ecosystem/.github/main/profile/assets/icons/plug.svg" width="24" /> | **REST API** | The full platform — tickets, payments, CRM, analytics — behind one API gateway |
 | <img src="https://raw.githubusercontent.com/CHI-Ecosystem/.github/main/profile/assets/icons/package.svg" width="24" /> | **TypeScript SDKs** | Typed clients generated straight from the API — what our own web & mobile apps run on |
-| <img src="https://raw.githubusercontent.com/CHI-Ecosystem/.github/main/profile/assets/icons/terminal.svg" width="24" /> | **CLI** | Script and automate event operations from your terminal, your CI, or agents like Hermes and OpenClaw |
+| <img src="https://raw.githubusercontent.com/CHI-Ecosystem/.github/main/profile/assets/icons/terminal.svg" width="24" /> | **CLI** | Event operations from your terminal, CI, or agents like Hermes and OpenClaw |
 | <img src="https://raw.githubusercontent.com/CHI-Ecosystem/.github/main/profile/assets/icons/bot.svg" width="24" /> | **MCP server** | Plug CHI into Claude, agents, and any MCP-compatible tooling — the event OS as a toolset |
 | <img src="https://raw.githubusercontent.com/CHI-Ecosystem/.github/main/profile/assets/icons/file-text.svg" width="24" /> | **llms.txt** | Machine-readable public context at [/llms.txt](https://chi.app/llms.txt) & [/llms-full.txt](https://chi.app/llms-full.txt) — AI-agent friendly by design |
 
