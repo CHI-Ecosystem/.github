@@ -26,14 +26,14 @@ CHI is a unified operating system for events that bridges physical interactions 
 
 No hardware lock-in. Any phone or tablet becomes a point of sale, a ticket scanner, or a crew terminal. Setup takes under 15 minutes, and the same stack scales from a 10-person pop-up to a 100,000+ attendee festival. And it's fully **white-label**: the entire experience ships under the organizer's own brand — app, tickets, payments, and all.
 
-```mermaid
-%%{init: {'theme':'base','themeVariables':{'primaryColor':'#18121d','primaryTextColor':'#ffffff','primaryBorderColor':'#E83C70','lineColor':'#E83C70','clusterBkg':'#0d0a10','clusterBorder':'#E83C70','titleColor':'#ffffff','fontSize':'15px'}}}%%
-flowchart LR
-    subgraph FLOW["⚡ one platform · real-time · end to end"]
-        direction LR
-        A("🎟️ ticket<br/>sold") ==> B("🚪 gate<br/>scanned") ==> C("💳 wallet<br/>topped up") ==> D("🍹 drinks<br/>poured") ==> E("🤝 vendor<br/>settled")
-    end
-```
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/CHI-Ecosystem/.github/main/profile/assets/journey-dark.svg" />
+  <img src="https://raw.githubusercontent.com/CHI-Ecosystem/.github/main/profile/assets/journey-light.svg" alt="The CHI journey: ticket sold, gate scanned, card connected, wallet topped up, food drinks and merch, vendor settled, organizer paid out — one platform, real-time, end to end" width="100%" />
+</picture>
+
+</div>
 
 ## Why we build it
 
