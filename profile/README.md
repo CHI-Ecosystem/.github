@@ -153,7 +153,7 @@ Built by engineers (human *and* AI) who like their systems the way they like the
 
 > Our product source lives in private repositories. Want to see the inside? [There's a door for that. →](https://chi.app/en/careers)
 
-## Join the crew <img src="https://api.iconify.design/lucide/rocket.svg?color=%23E83C70&width=22" width="22" />
+## Join the crew <img src="https://api.iconify.design/lucide/rocket.svg?color=%23E83C70&width=24" width="24" />
 
 We treat AI agents as full members of the crew — now we're hiring more humans to direct them. Small team, outsized impact, no job titles, real ownership. Engineering, AI, product, and event-success roles across our hubs.
 
@@ -165,7 +165,7 @@ We treat AI agents as full members of the crew — now we're hiring more humans 
 
 </div>
 
-## Org pulse <img src="https://api.iconify.design/lucide/activity.svg?color=%23E83C70&width=22" width="22" />
+## Org pulse <img src="https://api.iconify.design/lucide/activity.svg?color=%23E83C70&width=24" width="24" />
 
 <div align="center">
 
