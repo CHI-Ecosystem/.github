@@ -147,6 +147,7 @@ Built by engineers (human *and* AI) who like their systems the way they like the
 
 - **Event-driven core** — payments, ticketing, and analytics react to the same real-time stream
 - **AI-native pipeline** — RAG agents for product creation, AI-simulated event testing, agents embedded from code to ops
+- **AI workforce** — 100+ autonomous agents run the backlog in continuous loops: pick up an issue, spin up an isolated workspace, ship, repeat — coordinating through a shared brain of docs, decisions, and learnings
 - **Offline-tolerant ticketing** — gates keep scanning when festival Wi-Fi doesn't
 - **Full observability** — metrics, logs, and traces on every transaction
 - **Ship fast, ship safe** — automated release pipelines with staged promotion from test → staging → production
