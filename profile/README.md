@@ -136,6 +136,11 @@ Built by engineers (human *and* AI) who like their systems the way they like the
 ![LiteLLM](https://img.shields.io/badge/LiteLLM-0E8A16?style=flat-square)
 ![E2B](https://img.shields.io/badge/E2B-FF8800?style=flat-square)
 ![Local Inference](https://img.shields.io/badge/Local%20Inference-E83C70?style=flat-square)
+![Claude Code](https://img.shields.io/badge/Claude%20Code-D97757?style=flat-square&logo=claude&logoColor=white)
+![Codex](https://img.shields.io/badge/Codex-412991?style=flat-square&logo=openai&logoColor=white)
+![Paperclip](https://img.shields.io/badge/Paperclip-9D4EDD?style=flat-square)
+![OpenCode](https://img.shields.io/badge/OpenCode-1B1B1F?style=flat-square)
+![Aider](https://img.shields.io/badge/Aider-2ECC71?style=flat-square)
 
 **Platform & data**
 
