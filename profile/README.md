@@ -141,6 +141,7 @@ Built by engineers (human *and* AI) who like their systems the way they like the
 ![Paperclip](https://img.shields.io/badge/Paperclip-9D4EDD?style=flat-square)
 ![OpenCode](https://img.shields.io/badge/OpenCode-1B1B1F?style=flat-square)
 ![Aider](https://img.shields.io/badge/Aider-2ECC71?style=flat-square)
+![Higgsfield](https://img.shields.io/badge/Higgsfield-8A2BE2?style=flat-square)
 
 **Platform & data**
 
